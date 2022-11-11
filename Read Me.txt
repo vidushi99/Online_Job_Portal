@@ -1,0 +1,27 @@
+TERM PROJECT PROGRAM SUBMISSION
+--------------------------
+NAME : Vidushi Srivastava
+ROLLNO : 20223105
+MCA 4TH SEMESTER
+SUBMITTED TO : DR. SHYAM SUNDAR
+-------------------------------
+Basic Instructions
+------------------
+1. The folder naming Job_Portal is the Project Folder for the Java Web Application.
+2. The file naming job_portal_jobs.sql and job_portal_user.sql are sql database file to import.
+3. The file naming Read Me.txt is the basic instrucions file.
+
+Project Instructions
+-----------------
+1. Click on the Login button to get Login Modal. 
+2. Click on the Signup to register.
+3. Click on View Jobs to see the all jobs.
+4. Click on the Profile to update th profile.
+5.Login into administration page to add jobs , edit or delete jobs.
+
+Platform/Tools Used for the Project
+-----------------------------------
+1. Programming Language : HTML, SCSS(CSS 3), JAVASCRIPT, BOOTSTRAP 5, JSP 
+2. Code Editor / IDE : Eclipse IDE
+3. Developer : Apache Software Foundation. 
+4. Version : 13 
